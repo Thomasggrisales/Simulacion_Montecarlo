@@ -1,0 +1,22 @@
+# Archivos y carpetas autogeneradas de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos Virtuales
+.venv/
+env/
+venv/
+
+# Archivos de construcción y empaquetado
+*.egg-info/
+build/
+dist/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos del sistema operativo 
+.DS_Store
+Thumbs.db
